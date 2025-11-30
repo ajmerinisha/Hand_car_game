@@ -6,8 +6,11 @@ This project demonstrates real-time gesture recognition, computer vision, and in
 💠Real-time hand gesture detection
 
 💠Gesture-based controls:-
+        
         🖐 Open hand → Accelerate
+        
         ✊ Closed fist → Brake
+        
         ↔️ Move hand left/right → Steer
 
 💠Dynamic obstacles & collision detection
