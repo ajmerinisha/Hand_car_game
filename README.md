@@ -2,6 +2,7 @@ A Python-based car game where you control the car entirely with hand gestures us
 This project demonstrates real-time gesture recognition, computer vision, and interactive game development.
 
 **🚗 Features:-**
+
 💠Real-time hand gesture detection
 💠Gesture-based controls:-
         🖐 Open hand → Accelerate
@@ -12,6 +13,7 @@ This project demonstrates real-time gesture recognition, computer vision, and in
 💠Start screen with instructions
 
 **🎮 How to Play:-**
+
 1.Run python main.py
 2.Allow webcam access
 3.Press S to start
