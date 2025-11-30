@@ -9,15 +9,21 @@ This project demonstrates real-time gesture recognition, computer vision, and in
         🖐 Open hand → Accelerate
         ✊ Closed fist → Brake
         ↔️ Move hand left/right → Steer
+
 💠Dynamic obstacles & collision detection
+
 💠Score tracking & speed display
+
 💠Start screen with instructions
 
 **🎮 How to Play:-**
 
 1.Run python main.py
+
 2.Allow webcam access
+
 3.Press S to start
+
 4.Use gestures to control the car
 
 
